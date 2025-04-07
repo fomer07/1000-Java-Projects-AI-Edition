@@ -1,0 +1,6 @@
+sa COMPLETED_D
+selam AVAILABLE
+nabber oldu bu sefer AVAILABLE
+deneme kız AVAILABLE
+kızz napper sül DELETED
+sil DELETED
