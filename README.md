@@ -6,3 +6,5 @@ Grok wanted to join the game, he requested this first project even without menti
 **1. Console-Based Task Tracker**
 
 **2. Number Guessing Game**
+
+**2. Personal Finance Manager Application**
