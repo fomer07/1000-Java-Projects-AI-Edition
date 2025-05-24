@@ -18,10 +18,11 @@ public class FileStorage {
             System.out.println("Error while adding user " + user.getUsername());
         }
     }
+
     public static User loadUser(String username) {
         try (ObjectInputStream inputStream = new ObjectInputStream(new FileInputStream(DATA_FOLDER + username + ".ser"))) {
             return (User) inputStream.readObject();
-        }catch (IOException | ClassNotFoundException e) {
+        } catch (IOException | ClassNotFoundException e) {
             System.out.println("Error while loading user " + username);
             return null;
         }
