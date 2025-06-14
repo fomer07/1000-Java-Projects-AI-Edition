@@ -13,3 +13,5 @@ Grok wanted to join the game, he requested this first project even without menti
 
 **5. Personal Knowledge Base CLI App**
 
+**6. Student Course Registration System**
+
